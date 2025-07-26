@@ -18,3 +18,9 @@ SNOW_ACCOUNT=
 ```
 
 Now you can run the notebooks.
+
+---
+
+You can see the presentation slide with the name `Feature Engineering Using Snowflake and Feature Stores` 
+
+and you can see the presentation walkthrough video at https://drive.google.com/file/d/1V1zmFR78x9xo9PlCKI3n64QBey3RPto-/view?usp=sharing
