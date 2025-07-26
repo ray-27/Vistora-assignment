@@ -1,0 +1,6 @@
+pandas
+snowflake-connector-python
+python-dotenv
+snowflake-snowpark-python
+snowflake-ml-python
+scikit-learn
