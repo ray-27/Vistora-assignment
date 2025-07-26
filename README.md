@@ -24,3 +24,5 @@ Now you can run the notebooks.
 You can see the presentation slide with the name `Feature Engineering Using Snowflake and Feature Stores` 
 
 and you can see the presentation walkthrough video at https://drive.google.com/file/d/1V1zmFR78x9xo9PlCKI3n64QBey3RPto-/view?usp=sharing
+
+Since the file is big you can also watch it on youtube : https://youtu.be/ChyGs--sR-c
